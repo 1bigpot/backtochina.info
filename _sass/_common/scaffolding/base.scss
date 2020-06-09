@@ -12,7 +12,10 @@ body {
   color: $text-color;
   background: $body-bg-color;
 
-  @include mobile() { padding-right: 0 !important; }
+  @include mobile() { 
+    padding-right: 0 !important; 
+    font-size: $font-size-small;
+  }
   @include tablet() { padding-right: 0 !important; }
   @include desktop-large() { font-size: $font-size-large; }
 }
@@ -25,7 +28,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headings;
 }
 
-h2, h3, h4, h5, h6 { margin: 20px 0 15px; }
+h2, h3, h4 { margin: 40px 0 20px; }
+
+h5, h6 { margin: 20px 0 10px; }
 
 @for $headline from 1 through 6 {
   h#{$headline} {
@@ -34,12 +39,18 @@ h2, h3, h4, h5, h6 { margin: 20px 0 15px; }
 
   @include mobile() {
     h#{$headline} {
-      font-size: $font-size-headings-base - $font-size-headings-step * $headline - 4px;
+      font-size: $font-size-headings-base - $font-size-headings-step * $headline - 2px;
+    }
+  }
+
+  @include desktop-large {
+    h#{$headline} {
+      font-size: $font-size-headings-base - $font-size-headings-step * $headline + 2px;
     }
   }
 }
 
-p { margin: 0 0 25px 0; }
+p { margin: 0 0 20px 0; }
 
 a {
   color: $link-color;
