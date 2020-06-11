@@ -16,10 +16,18 @@ menu:
   categories: 分类
   tags: 标签
   about: 关于
-  search: 搜索
+  search: 站内搜索
   schedule: 日程表
   sitemap: 站点地图
   commonweal: 公益404
+  flights-list: 回国航班列表
+  global-airlines-info: 航司信息页面
+  global-transfer-info: 全球转机情况
+  experience-share: 回国经历分享
+  quarantine-hotels: 隔离酒店汇总
+  wechat-group-chats: 微信群聊
+  contact-us: 联系我们
+
 
 sidebar:
   overview: 站点概览

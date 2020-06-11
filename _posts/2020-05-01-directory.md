@@ -6,35 +6,78 @@ tags:
 
 
 
-## 航班信息
+点击即可进入相应页面：
 
-　　回国航班列表
+<center>
 
-　　[全球航空公司最新航班信息](/global-airlines-info.html#)
-
-　　使领馆包机信息
+<a href="/flights-list">最新回国航班列表</a>
 
 <br />
 
-### 转机信息
+<br />
 
-　　[世界各地转机情况](/global-transfer-info.html)
-
-　　转机路线推荐
+<a href="/global-airlines-info">全球航空公司航班信息页面列表</a>
 
 <br />
 
-### 入境隔离信息
+<br />
 
-　　集中隔离酒店汇总
-
-　　二次居家隔离汇总
+<a href="/global-transfer-info.html">世界各地转机情况汇总</a>
 
 <br />
 
-### 回国前准备
+<br />
 
-　　防疫健康码国际版
+<a href="/us-transfer-routes">北美转机回国可行路线汇总</a>
 
-　　微信群二维码
+<br />
 
+<br />
+
+<a href="/experience-share">回国经历分享征集页面</a>
+
+<br />
+
+<br />
+
+<a href="/quarantine-hotels-share">隔离酒店分享征集页面</a>
+
+<br />
+
+<br />
+
+<a href="/wechat-group-chats">回国微信群聊</a>
+
+<br />
+
+<br />
+
+<br />
+
+</center>
+
+以下页面正在制作中，即将上线，敬请期待：
+
+<center>
+
+使领馆包机信息
+
+<br />
+
+<br />
+
+防疫健康码国际版信息
+
+<br />
+
+<br />
+
+航班取消后退票情况汇总
+
+<br />
+
+<br />
+
+七月回国形势展望
+
+</center>

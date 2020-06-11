@@ -57,35 +57,37 @@
         {% endunless %}
 
         <div class="post-meta">
-          <span class="post-time">
-            {% if site.post_meta.created_at %}
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              {% if site.post_meta.item_text %}
-                <span class="post-meta-item-text">{{ __.post.posted }}</span>
+          {% if post.timeline %}
+            <span class="post-time">
+              {% if site.post_meta.created_at %}
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-o"></i>
+                </span>
+                {% if site.post_meta.item_text %}
+                  <span class="post-meta-item-text">{{ __.post.posted }}</span>
+                {% endif %}
+                <time title="{{ __.post.created }}" itemprop="dateCreated datePublished" datetime="{{ post.date | date_to_xmlschema }}">
+                  {{ post.date | date: site.date_format }}
+                </time>
               {% endif %}
-              <time title="{{ __.post.created }}" itemprop="dateCreated datePublished" datetime="{{ post.date | date_to_xmlschema }}">
-                {{ post.date | date: site.date_format }}
-              </time>
-            {% endif %}
 
-            {% if site.post_meta.created_at and site.post_meta.updated_at %}
-              <span class="post-meta-divider">|</span>
-            {% endif %}
-
-            {% if site.post_meta.updated_at %}
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-check-o"></i>
-              </span>
-              {% if site.post_meta.item_text %}
-                <span class="post-meta-item-text">{{ __.post.modified }}</span>
+              {% if site.post_meta.created_at and site.post_meta.updated_at %}
+                <span class="post-meta-divider">|</span>
               {% endif %}
-              <time title="{{ __.post.modified }}" itemprop="dateModified" datetime="{{ post.updated | date: site.date_format }}">
-                {{ post.updated | date: site.date_format }}
-              </time>
-            {% endif %}
-          </span>
+
+              {% if site.post_meta.updated_at %}
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                {% if site.post_meta.item_text %}
+                  <span class="post-meta-item-text">{{ __.post.modified }}</span>
+                {% endif %}
+                <time title="{{ __.post.modified }}" itemprop="dateModified" datetime="{{ post.updated | date: site.date_format }}">
+                  {{ post.updated | date: site.date_format }}
+                </time>
+              {% endif %}
+            </span>
+          {% endif %}
 
           {% if post.categories and post.categories.size > 0 and site.post_meta.categories %}
             <span class="post-category" >
@@ -193,7 +195,17 @@
                   <span id="url::{{ post.url | absolute_url }}" class="cy_cmt_count" data-xid="{{ post.url }}" itemprop="commentsCount" ></span>
                 </a>
               {% endif %}
-            {% endif %}
+            <!-- {% elsif site.valine.enable and site.valine.leancloud_appid and site.valine.leancloud_appkey %}
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="{{ post.url | relative_url }}#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="{{ post.url }}" itemprop="commentCount"></span>
+                </a>
+              </span>
+            {% endif %} -->
           {% endif %}
 
           {% comment %} LeanCould PageView {% endcomment %}
@@ -263,6 +275,7 @@
           {% endunless %}
 
         </div>
+
       </header>
     {% endunless %}
 
@@ -393,7 +406,7 @@
       {% endif %}
       {% endunless %}
 
-      {% unless is_index %}
+      {% if post.timeline %}
       {% if post.previous or post.next %}
         <div class="post-nav" id="post-nav-id">
           <div class="post-nav-next post-nav-item">
@@ -415,7 +428,7 @@
           </div>
         </div>
       {% endif %}
-      {% endunless %}
+      {% endif %}
 
       {% if is_index %}
         {% assign per_page = paginator.per_page | default: site.posts.size %}

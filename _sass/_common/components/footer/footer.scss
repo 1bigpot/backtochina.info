@@ -13,15 +13,22 @@
 }
 
 .powered-by,
-.theme-info { display: inline-block; }
+.theme-info,
+.weibo,
+.wechat { display: inline-block; }
 
-.powered-by {
+.powered-by,
+.weibo {
   margin-right: 10px;
 
   &::after {
     content: "|";
     padding-left: 10px;
   }
+}
+
+.footer-links {
+  margin-bottom: 10px;
 }
 
 .cc-license {

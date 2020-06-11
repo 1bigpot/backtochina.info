@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 host: 10.0.0.201
-port: 3000
+port: 4000
 
 # Site
 title: 回国 Info
 subtitle:
-description:
+description: 回国信息一站式汇总
 author: 好大一口锅
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -121,10 +121,17 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
+  flights-list: /flights-list/
+  #global-airlines-info: /global-airlines-info/
+  global-transfer-info: /global-transfer-info/
+  experience-share: /experience-share/
+  quarantine-hotels-share: /quarantine-hotels-share/
+  wechat-group-chats: /wechat-group-chats/
+  #contact-us: /contact-us/
+
   #about: /about/
-  archives: /archives/
-  tags: /tags/
+  #archives: /archives/
+  #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -135,7 +142,7 @@ menu:
 #   Key is the name of menu item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an question mask icon presenting up means that the item has no mapping icon.
 menu_icons:
-  enable: true
+  enable: false
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
@@ -218,7 +225,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   微博: https://weibo.com/7415485975/
-  微信公众号: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyMzcwMTI2MQ==&scene=124#wechat_redirect
+  微信公众号: https://mp.weixin.qq.com/s/lm14EySamxKjeVbmqG_Nng
  
 
 # Social Links Icons
@@ -238,7 +245,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /uploads/pot_avatar.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -269,8 +276,8 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
-  #display: always
+  #display: post
+  display: always
   #display: hide
   #display: remove
 
@@ -279,18 +286,19 @@ sidebar:
   offset_float: 0
 
   # Back to top in sidebar
-  b2t: false
+  b2t: true
 
   # Scroll percent label in b2t button
   scrollpercent: false
 
 
 # Blog rolls
-#links_title: Links
-#links_layout: block
+links_title: Links
+links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  微博: https://weibo.com/7415485975/
+  微信公众号: https://mp.weixin.qq.com/s/lm14EySamxKjeVbmqG_Nng
 
 
 # ---------------------------------------------------------------
@@ -328,7 +336,7 @@ post_wordcount:
 
 # Wechat Subscriber
 wechat_subscriber:
-  enabled: true
+  enabled: false
   qcode: /uploads/wechat-qrcode.jpg
   description: 欢迎您扫描二维码关注“好大一口锅”微信公众号
 
@@ -379,6 +387,13 @@ han: false
 
 # Baidu Analytics ID
 #baidu_analytics:
+
+#valine
+valine:
+  enable: true
+  leancloud_appid: jdH8y8ugrxvB5nw5eHjOQv6O-gzGzoHsz
+  leancloud_appkey: iQx4oQm8xjccnA43Jb1MhbwH
+  placeholder: "评论区供回国信息分享和交流，请不要发布广告和其它违规信息。"
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -436,7 +451,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC81MDQzOC8yNjkyNQ==
+# livere_uid: MTAyMC81MDQzOC8yNjkyNQ==
 
 # Support for gitalk comments system.
 gitalk:
@@ -528,9 +543,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: jdH8y8ugrxvB5nw5eHjOQv6O-gzGzoHsz
+  app_key: iQx4oQm8xjccnA43Jb1MhbwH
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
