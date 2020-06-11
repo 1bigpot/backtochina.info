@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://10.0.0.201:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://10.0.0.201:4000/" rel="alternate" type="text/html" /><updated>2020-06-11T10:47:35-04:00</updated><id>http://10.0.0.201:4000/atom.xml</id><title type="html">回国 Info</title><subtitle>回国信息一站式汇总</subtitle><author><name>好大一口锅</name></author><entry><title type="html">世界各地转机情况汇总</title><link href="http://10.0.0.201:4000/wechat-group-chats.html" rel="alternate" type="text/html" title="世界各地转机情况汇总" /><published>2020-06-10T00:00:00-04:00</published><updated>2020-06-10T00:00:00-04:00</updated><id>http://10.0.0.201:4000/wechat-group-chats</id><content type="html" xml:base="http://10.0.0.201:4000/wechat-group-chats.html">&lt;h4 id=&quot;海外抱团取暖群&quot;&gt;海外抱团取暖群&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://10.0.0.201:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://10.0.0.201:4000/" rel="alternate" type="text/html" /><updated>2020-06-11T18:06:00-04:00</updated><id>http://10.0.0.201:4000/atom.xml</id><title type="html">回国 Info</title><subtitle>回国信息一站式汇总</subtitle><author><name>好大一口锅</name></author><entry><title type="html">世界各地转机情况汇总</title><link href="http://10.0.0.201:4000/wechat-group-chats.html" rel="alternate" type="text/html" title="世界各地转机情况汇总" /><published>2020-06-10T00:00:00-04:00</published><updated>2020-06-10T00:00:00-04:00</updated><id>http://10.0.0.201:4000/wechat-group-chats</id><content type="html" xml:base="http://10.0.0.201:4000/wechat-group-chats.html">&lt;h4 id=&quot;海外抱团取暖群&quot;&gt;海外抱团取暖群&lt;/h4&gt;
 
 &lt;p&gt;现有涵盖世界各地的共 42 个群聊&lt;/p&gt;
 
@@ -87,72 +87,99 @@
   &lt;li&gt;首尔仁川至中国大陆目前每周有 9 个航班：&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;details&gt;
+
+&lt;summary&gt;点击展开首尔仁川回国航班列表&lt;/summary&gt;
+
+&lt;center&gt;
+
 &lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;目的地&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;航司&lt;/strong&gt;&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;航班号&lt;/strong&gt;&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;班期&lt;/strong&gt;&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;北京（青岛入境）&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;国航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;CA124&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周五&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;上海&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;东航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;MU5042&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周五&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;沈阳&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;南航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;CZ682&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周日&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;沈阳&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;大韩&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;KE831&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周五&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;长春&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;韩亚&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;OZ303&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周日&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;青岛&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;山航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;SC4088&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周五&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;青岛&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;青岛航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;QW9902&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周六&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;威海&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;济州航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7C8502&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周三&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;厦门&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;厦航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;MF872&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周一&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+
+&lt;th&gt;目的地&lt;/th&gt;
+&lt;th&gt;航司&lt;/th&gt;
+&lt;th&gt;航班号&lt;/th&gt;
+&lt;th&gt;班期&lt;/th&gt;
+
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;北京（青岛入境）&lt;/td&gt;
+&lt;td&gt;国航&lt;/td&gt;
+&lt;td&gt;CA124&lt;/td&gt;
+&lt;td&gt;周五&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;上海&lt;/td&gt;
+&lt;td&gt;东航&lt;/td&gt;
+&lt;td&gt;MU5042&lt;/td&gt;
+&lt;td&gt;周五&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td rowspan=&quot;2&quot;&gt;沈阳&lt;/td&gt;
+&lt;td&gt;南航&lt;/td&gt;
+&lt;td&gt;CZ682&lt;/td&gt;
+&lt;td&gt;周日&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;大韩&lt;/td&gt;
+&lt;td&gt;KE831&lt;/td&gt;
+&lt;td&gt;周五&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;长春&lt;/td&gt;
+&lt;td&gt;韩亚&lt;/td&gt;
+&lt;td&gt;OZ303&lt;/td&gt;
+&lt;td&gt;周日&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td rowspan=&quot;2&quot;&gt;青岛&lt;/td&gt;
+&lt;td&gt;山航&lt;/td&gt;
+&lt;td&gt;SC4088&lt;/td&gt;
+&lt;td&gt;周五&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;青岛航&lt;/td&gt;
+&lt;td&gt;QW9902&lt;/td&gt;
+&lt;td&gt;周六&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;威海&lt;/td&gt;
+&lt;td&gt;济州航&lt;/td&gt;
+&lt;td&gt;7C8502&lt;/td&gt;
+&lt;td&gt;周三&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;厦门&lt;/td&gt;
+&lt;td&gt;厦航&lt;/td&gt;
+&lt;td&gt;MF872&lt;/td&gt;
+&lt;td&gt;周一&lt;/td&gt;
+
+  &lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;/center&gt;
+&lt;/details&gt;
 
 &lt;h4 id=&quot;北美--东京成田--中国&quot;&gt;北美 — 东京成田 — 中国&lt;/h4&gt;
 
@@ -165,54 +192,72 @@
   &lt;li&gt;除去 T3 出发的春秋，东京成田至中国大陆目前每周有 6 个航班：&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;details&gt;
+
+&lt;summary&gt;点击展开东京成田 T1 和 T2 回国航班列表&lt;/summary&gt;
+
+&lt;center&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;目的地&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;航司&lt;/strong&gt;&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;航班号&lt;/strong&gt;&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;班期&lt;/strong&gt;&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;上海&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;国航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;CA930&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周四&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;上海&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;东航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;MU524&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周五&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;上海&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;全日空&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;NH919&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周日&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;沈阳&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;南航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;CZ628&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周四&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;大连&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;日航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;JL829&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周四&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;福州&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;厦航&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;MF810&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;周五&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+
+&lt;th&gt;目的地&lt;/th&gt;
+&lt;th&gt;航司&lt;/th&gt;
+&lt;th&gt;航班号&lt;/th&gt;
+&lt;th&gt;班期&lt;/th&gt;
+
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+
+&lt;td rowspan=&quot;3&quot;&gt;上海&lt;/td&gt;
+&lt;td&gt;国航&lt;/td&gt;
+&lt;td&gt;CA930&lt;/td&gt;
+&lt;td&gt;周四&lt;/td&gt;
+
+ &lt;/tr&gt;
+ &lt;tr&gt;
+&lt;td&gt;东航&lt;/td&gt;
+&lt;td&gt;MU524&lt;/td&gt;
+&lt;td&gt;周五&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;全日空&lt;/td&gt;
+&lt;td&gt;NH919&lt;/td&gt;
+&lt;td&gt;周日&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;沈阳&lt;/td&gt;
+&lt;td&gt;南航&lt;/td&gt;
+&lt;td&gt;CZ628&lt;/td&gt;
+&lt;td&gt;周四&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;大连&lt;/td&gt;
+&lt;td&gt;日航&lt;/td&gt;
+&lt;td&gt;JL829&lt;/td&gt;
+&lt;td&gt;周四&lt;/td&gt;
+
+  &lt;/tr&gt;
+  &lt;tr&gt;
+
+&lt;td&gt;福州&lt;/td&gt;
+&lt;td&gt;厦航&lt;/td&gt;
+&lt;td&gt;MF810&lt;/td&gt;
+&lt;td&gt;周五&lt;/td&gt;
+
+  &lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/center&gt;
+&lt;/details&gt;
 
 &lt;h4 id=&quot;北美--巴黎--法兰克福--阿姆斯特丹--马德里--中国&quot;&gt;北美 — 巴黎 / 法兰克福 / 阿姆斯特丹 / 马德里 — 中国&lt;/h4&gt;
 
@@ -280,18 +325,21 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;北欧国家回国直飞机票相对较为充足&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;哥本哈根 — 北京：每周一，国航，石家庄入境&lt;/li&gt;
-      &lt;li&gt;斯德哥尔摩 — 北京：每周五，国航，天津入境&lt;/li&gt;
-      &lt;li&gt;赫尔辛基 — 上海：每周日，吉祥航空&lt;/li&gt;
-    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;哥本哈根 — 北京：每周一，国航，石家庄入境&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;斯德哥尔摩 — 北京：每周五，国航，天津入境&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;赫尔辛基 — 上海：每周日，吉祥航空&lt;/p&gt;
 
     &lt;p&gt;​&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;北美 —   —&lt;/p&gt;</content><author><name>好大一口锅</name></author><summary type="html">一次转机 北美 — 首尔仁川 — 中国 首尔目前允许 24 小时内的当日和过夜转机，允许更换航站楼，不允许入境 北美至首尔航班已经大幅恢复，选择空间大，机票充足 大韩转东航、南航、厦航可以直挂行李 韩亚转国航和山航可以直挂灵犀 首尔仁川至中国大陆目前每周有 9 个航班： 目的地 航司 航班号 班期 北京（青岛入境） 国航 CA124 周五 上海 东航 MU5042 周五 沈阳 南航 CZ682 周日 沈阳 大韩 KE831 周五 长春 韩亚 OZ303 周日 青岛 山航 SC4088 周五 青岛 青岛航 QW9902 周六 威海 济州航 7C8502 周三 厦门 厦航 MF872 周一 北美 — 东京成田 — 中国 东京成田机场允许当日转机，不允许过夜 成田机场 T1 和 T2 间可以跨航站楼转机，T3 不可以 由于不能过夜，因此大部分北美触发航班无法接上后续回国航班，购票时请注意时间 目前北美至东京的很多航班降落羽田机场，购票时请注意避开 全日空、美联航、加航转全日空和国航可以行李直挂 除去 T3 出发的春秋，东京成田至中国大陆目前每周有 6 个航班： 目的地 航司 航班号 班期 上海 国航 CA930 周四 上海 东航 MU524 周五 上海 全日空 NH919 周日 沈阳 南航 CZ628 周四 大连 日航 JL829 周四 福州 厦航 MF810 周五 北美 — 巴黎 / 法兰克福 / 阿姆斯特丹 / 马德里 — 中国 ###### 北美 — 伦敦 — 中国 北美 — 亚的斯亚贝巴 — 中国 美国 — 加拿大 — 中国 二次转机 北美 — 伦敦 — 哥本哈根 / 斯德哥尔摩 / 赫尔辛基 — 中国 目前北美至伦敦航班较多，余票充足 出发 到达 入境点 航司 航班号 班期 哥本哈根 北京 石家庄 国航 CA878 周一 斯德哥尔摩 北京 天津 国航 CA912 周五 赫尔辛基 上海 — 吉祥 HO1608 周日 目前北美至伦敦航班较多，余票充足 伦敦至上述三座城市的航班已恢复 北欧国家回国直飞机票相对较为充足 哥本哈根 — 北京：每周一，国航，石家庄入境 斯德哥尔摩 — 北京：每周五，国航，天津入境 赫尔辛基 — 上海：每周日，吉祥航空 ​ 北美 — —</summary></entry><entry><title type="html">使领馆回国包机信息</title><link href="http://10.0.0.201:4000/charter-info.html" rel="alternate" type="text/html" title="使领馆回国包机信息" /><published>2020-06-07T00:00:00-04:00</published><updated>2020-06-07T00:00:00-04:00</updated><id>http://10.0.0.201:4000/charter-info</id><content type="html" xml:base="http://10.0.0.201:4000/charter-info.html">&lt;h4 id=&quot;美国应届毕业和未成年留学生包机&quot;&gt;&lt;strong&gt;美国应届毕业和未成年留学生包机&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;北美 —   —&lt;/p&gt;</content><author><name>好大一口锅</name></author><summary type="html">一次转机 北美 — 首尔仁川 — 中国 首尔目前允许 24 小时内的当日和过夜转机，允许更换航站楼，不允许入境 北美至首尔航班已经大幅恢复，选择空间大，机票充足 大韩转东航、南航、厦航可以直挂行李 韩亚转国航和山航可以直挂灵犀 首尔仁川至中国大陆目前每周有 9 个航班： 点击展开首尔仁川回国航班列表 目的地 航司 航班号 班期 北京（青岛入境） 国航 CA124 周五 上海 东航 MU5042 周五 沈阳 南航 CZ682 周日 大韩 KE831 周五 长春 韩亚 OZ303 周日 青岛 山航 SC4088 周五 青岛航 QW9902 周六 威海 济州航 7C8502 周三 厦门 厦航 MF872 周一 北美 — 东京成田 — 中国 东京成田机场允许当日转机，不允许过夜 成田机场 T1 和 T2 间可以跨航站楼转机，T3 不可以 由于不能过夜，因此大部分北美触发航班无法接上后续回国航班，购票时请注意时间 目前北美至东京的很多航班降落羽田机场，购票时请注意避开 全日空、美联航、加航转全日空和国航可以行李直挂 除去 T3 出发的春秋，东京成田至中国大陆目前每周有 6 个航班： 点击展开东京成田 T1 和 T2 回国航班列表 目的地 航司 航班号 班期 上海 国航 CA930 周四 东航 MU524 周五 全日空 NH919 周日 沈阳 南航 CZ628 周四 大连 日航 JL829 周四 福州 厦航 MF810 周五 北美 — 巴黎 / 法兰克福 / 阿姆斯特丹 / 马德里 — 中国 ###### 北美 — 伦敦 — 中国 北美 — 亚的斯亚贝巴 — 中国 美国 — 加拿大 — 中国 二次转机 北美 — 伦敦 — 哥本哈根 / 斯德哥尔摩 / 赫尔辛基 — 中国 目前北美至伦敦航班较多，余票充足 出发 到达 入境点 航司 航班号 班期 哥本哈根 北京 石家庄 国航 CA878 周一 斯德哥尔摩 北京 天津 国航 CA912 周五 赫尔辛基 上海 — 吉祥 HO1608 周日 目前北美至伦敦航班较多，余票充足 伦敦至上述三座城市的航班已恢复 北欧国家回国直飞机票相对较为充足 哥本哈根 — 北京：每周一，国航，石家庄入境 斯德哥尔摩 — 北京：每周五，国航，天津入境 赫尔辛基 — 上海：每周日，吉祥航空 ​ 北美 — —</summary></entry><entry><title type="html">使领馆回国包机信息</title><link href="http://10.0.0.201:4000/charter-info.html" rel="alternate" type="text/html" title="使领馆回国包机信息" /><published>2020-06-07T00:00:00-04:00</published><updated>2020-06-07T00:00:00-04:00</updated><id>http://10.0.0.201:4000/charter-info</id><content type="html" xml:base="http://10.0.0.201:4000/charter-info.html">&lt;h4 id=&quot;美国应届毕业和未成年留学生包机&quot;&gt;&lt;strong&gt;美国应届毕业和未成年留学生包机&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;中国驻美使领馆目前仍然在协助之前已报名的应届毕业和未成年留学生乘坐商业包机回国，目前每周依然有 6-8 个&lt;/p&gt;
 
