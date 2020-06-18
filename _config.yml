@@ -390,7 +390,7 @@ han: false
 
 #valine
 valine:
-  enable: true
+  enable: false
   leancloud_appid: H3nh8VmanEFzwLTQDdJUS1KU-MdYXbMMI
   leancloud_appkey: TlH1DRuYhR0sPcSFhGyxzaFa
   placeholder: "评论区供回国信息分享和交流，请不要发布广告和其它违规信息。"
