@@ -390,9 +390,9 @@ han: false
 
 #valine
 valine:
-  enable: false
-  leancloud_appid: H3nh8VmanEFzwLTQDdJUS1KU-MdYXbMMI
-  leancloud_appkey: TlH1DRuYhR0sPcSFhGyxzaFa
+  enable: true
+  leancloud_appid: H3nh8VmanEFzwLTQDdJUS1KU-MdYXbMMI 
+  leancloud_appkey: TlH1DRuYhR0sPcSFhGyxzaFa 
   placeholder: "评论区供回国信息分享和交流，请不要发布广告和其它违规信息。"
   
 
@@ -544,7 +544,7 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: true
+  enable: false
   app_id: H3nh8VmanEFzwLTQDdJUS1KU-MdYXbMMI
   app_key: TlH1DRuYhR0sPcSFhGyxzaFa
 
